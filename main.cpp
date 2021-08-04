@@ -39,6 +39,17 @@ class MyClass {
      * @return int sum of a and b
      */
     int Add(int a, int b) { return a + b; }
+
+    /**
+     * @brief Subtract 2 numbers
+     *
+     * Brief explaination of how it subtracts 2 numbers
+     *
+     * @param a operand 1
+     * @param b operand 2
+     * @return int difference of a and b
+     */
+    int Subtract(int a, int b) { return a - b; }
 };
 
 }  // namespace MyNamespace

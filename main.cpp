@@ -3,7 +3,6 @@
  *
  * This is a "Detailed" explaination of this file
  *
- *
  * @see https://github.com/satu0king/Github-Documentation-With-Doxygen/blob/master/src/main.cpp
  */
 

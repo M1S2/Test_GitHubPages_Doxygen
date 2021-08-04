@@ -50,6 +50,17 @@ class MyClass {
      * @return int difference of a and b
      */
     int Subtract(int a, int b) { return a - b; }
+
+    /**
+     * @brief Multiply 2 numbers
+     *
+     * Brief explaination of how it multiply 2 numbers
+     *
+     * @param a operand 1
+     * @param b operand 2
+     * @return int product of a and b
+     */
+    int Multiply(int a, int b) { return a * b; }
 };
 
 }  // namespace MyNamespace

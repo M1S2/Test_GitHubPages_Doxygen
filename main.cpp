@@ -4,6 +4,7 @@
  * This is a "Detailed" explaination of this file.
  *
  * Additional comment.
+ * Additional comment 2.
  *
  * @see https://github.com/satu0king/Github-Documentation-With-Doxygen/blob/master/src/main.cpp
  */

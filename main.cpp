@@ -2,6 +2,7 @@
  * @brief This is a "brief" explaination of this file
  *
  * This is a "Detailed" explaination of this file.
+ *
  * Additional comment.
  *
  * @see https://github.com/satu0king/Github-Documentation-With-Doxygen/blob/master/src/main.cpp
@@ -62,6 +63,17 @@ class MyClass {
      * @return int product of a and b
      */
     int Multiply(int a, int b) { return a * b; }
+
+    /**
+     * @brief Divide 2 numbers
+     *
+     * Brief explaination of how it divides 2 numbers
+     *
+     * @param a operand 1
+     * @param b operand 2
+     * @return int quotient of a and b
+     */
+    int Divide(int a, int b) { return a / b; }
 };
 
 }  // namespace MyNamespace

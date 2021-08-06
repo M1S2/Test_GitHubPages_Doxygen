@@ -1,7 +1,8 @@
 /** @file
  * @brief This is a "brief" explaination of this file
  *
- * This is a "Detailed" explaination of this file
+ * This is a "Detailed" explaination of this file.
+ * Additional comment.
  *
  * @see https://github.com/satu0king/Github-Documentation-With-Doxygen/blob/master/src/main.cpp
  */
